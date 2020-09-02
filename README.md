@@ -2,6 +2,6 @@
 
 Shadowsocks client app build with react native for iOS and Android.
 
-http://lightyearapp.club/
+http://lightyearapp.me/
 
-http://lightyearvpn.xyz/
+http://lightyearvpn.com/
